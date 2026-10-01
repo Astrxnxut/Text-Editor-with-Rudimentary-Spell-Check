@@ -1,0 +1,4 @@
+.error_underline{
+	-fx-underline: true;
+	-rtfx-underline-color: red;
+}
